@@ -1,0 +1,12 @@
+{
+    "name": "misho/ex1tm",
+    "authors": [
+        {
+            "name": "Misho Pepanashvili",
+            "email": "pepanashvili.mikheil@gtu.ge"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
